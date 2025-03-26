@@ -1,0 +1,7 @@
+Flask
+Flask-Cors
+pandas
+demjson3
+SQLAlchemy
+requests
+pyodbc
